@@ -1,6 +1,8 @@
 # Project-CleaningData
 Proyecto de curso de Getting and Cleaning Data
 
+## Instrucciones
+
 * El código considera que el archivo ya está descargando en la máquina local y descompactado
 * carga los arrchivos X_test.txt y X_train.txt desde los subdirectorios creandos en la descarga en un data frames
 * También se carga el archivo con los nombres de las columnas en otro data frame
